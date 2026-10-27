@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.DS_Store
+.streamlit/secrets.toml
+data/*.db
+data/*.db-*
+exports/
+.runtime/
+data/logs/
+dist/
+build/
+*.spec.bak
